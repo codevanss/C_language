@@ -1,7 +1,8 @@
 {
   "C_Cpp.errorSquiggles": "disabled",
   "files.associations": {
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "BASIC.C": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
